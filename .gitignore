@@ -1,1 +1,6 @@
-# Copy from the .gitignore artifact above
+__pycache__/
+*.pyc
+*.log
+*.bak
+*.broken
+benchmark_results.json
